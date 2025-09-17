@@ -11,38 +11,37 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Docs",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Tutorials",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "tutorials/first-workspace",
+              "tutorials/first-submission"
             ]
           },
           {
-            "group": "Customization",
+            "group": "How-to guides",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "how-to/invite-team",
+              "how-to/eligibility-gates",
+              "how-to/rubric-coverage"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Reference",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "reference/roles-permissions",
+              "reference/export-formats",
+              "reference/grantgraph-model"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Concepts",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "concepts/what-is-grantgraph",
+              "concepts/chat-first",
+              "concepts/ai-throttles"
             ]
           }
         ]
